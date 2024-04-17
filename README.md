@@ -1,4 +1,3 @@
-# Machine Learning Classification
 # Breast cancer detection whether the patient has a malignant or benign type using 3 Machine Learning Classification algorithms : Decision Tree , Random Forest, K Nearest Neighbor.
 
 The research carried out aimed at establishing the accuracy of the machine learning models in the healthcare sector in predicting cancer diagnosis specifically with the aim of early breast cancer diagnosis to implement treatment immediately. 
